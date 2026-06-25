@@ -1,6 +1,9 @@
-# 🛒 Proyecto Tienda Online
+# 🛒 Tienda Online Full Stack
 
-Este repositorio contiene el código de la tienda online con Node.js, Express y MySQL.
+Aplicación web full stack de comercio electrónico desarrollada con Node.js, Express y MySQL.
+
+El proyecto implementa una arquitectura cliente-servidor con API REST,
+gestión de productos, clientes, pedidos y facturas, utilizando una base de datos relacional.
 
 ---
 
@@ -16,7 +19,7 @@ Este repositorio contiene el código de la tienda online con Node.js, Express y 
 ## 📂 Estructura del proyecto
 
 ```
-Proyecto-tienda/
+Tienda-online-fullstack/
 │── css/                # Estilos CSS
 │── db/                 # Carpeta con script de base de datos
 │   └── tienda_online.sql
@@ -81,7 +84,7 @@ PORT=3000
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/MateoQuicenoM/Proyecto-tienda.git
+git clone https://github.com/MateoQuicenoM/Tienda-online-fullstack.git
 ```
 
 2. Entrar al proyecto:
